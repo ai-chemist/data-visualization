@@ -4,11 +4,13 @@
 
 ### Process
 
-|  날짜   |           내역            |              비고              |                추가                 |
-|:-----:|:-----------------------:|:----------------------------:|:---------------------------------:|
-| 08/20 | chapter 15 (Matplotlib) |        설치 및 기본 코드 생성         |    fig == figure, ax = a graph    |
-| 08/22 | chapter 15 (Matplotlib) | plot() 메서드 및 set_ 계열 메서드 테스트 | plot(), set_title(), set_xlabel 등 |
-| 08/24 | chapter 15 (Matplotlib) |      scatter() 메서드 테스트       |        scatter() - 하나의 구간         |
+|    날짜     |           내역            |              비고              |                           추가                            |
+|:---------:|:-----------------------:|:----------------------------:|:-------------------------------------------------------:|
+|   08/20   | chapter 15 (Matplotlib) |        설치 및 기본 코드 생성         |               fig == figure, ax = a graph               |
+|   08/22   | chapter 15 (Matplotlib) | plot() 메서드 및 set_ 계열 메서드 테스트 |            plot(), set_title(), set_xlabel 등            |
+|   08/24   | chapter 15 (Matplotlib) |      scatter() 메서드 테스트       |                   scatter() - 하나의 구간                    |
+| 08/24 - 2 | chapter 15 (Matplotlib) |    colormap 설정, 루프로 값 설정     | color=(r, g, b) 인수와 c=Value_name, cmap=ColorMap_name 인수 |
+
 ---
 
 #### 추가 사항
