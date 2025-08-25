@@ -10,6 +10,7 @@
 |   08/22   | chapter 15 (Matplotlib) | plot() 메서드 및 set_ 계열 메서드 테스트 |            plot(), set_title(), set_xlabel 등            |
 |   08/24   | chapter 15 (Matplotlib) |      scatter() 메서드 테스트       |                   scatter() - 하나의 구간                    |
 | 08/24 - 2 | chapter 15 (Matplotlib) |    colormap 설정, 루프로 값 설정     | color=(r, g, b) 인수와 c=Value_name, cmap=ColorMap_name 인수 |
+|   08/25   | chapter 15 (Matplotlib) |       random walk 테스트        |                    dpi, 이미지 크기 설정 가능                     |
 
 ---
 
